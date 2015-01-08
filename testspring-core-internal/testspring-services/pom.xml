@@ -5,9 +5,10 @@
 	<parent>
 	<groupId>com.nishant.core</groupId>
 	<artifactId>testspring-core-internal</artifactId>
+	<version>1.0-SNAPSHOT</version>
 	</parent>
 	
-	<groupId>com.nishant.myapp</groupId>
+	
 	<artifactId>testspring-services</artifactId>
 	<packaging>jar</packaging>
 	<name>testspring services</name>
