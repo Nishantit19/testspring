@@ -8,7 +8,7 @@
 	<version>1.0-SNAPSHOT</version>
 	</parent>
 	
-	<groupId>com.nishant.myapp</groupId>
+	
 	<artifactId>testspring-domian</artifactId>
 	<packaging>jar</packaging>
 	<name>testspring domian</name>
